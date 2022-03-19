@@ -1,0 +1,7 @@
+__pycache__
+sauce/
+.*
+*.zip
+kaggle.json
+.ipynb_checkpoints
+*/.ipynb_checkpoints/
